@@ -1,1 +1,1 @@
-College Website  ---> https://itzpartht.github.io/College-Website/
+College Website  ---> https://mrprathm.github.io/college-website/
